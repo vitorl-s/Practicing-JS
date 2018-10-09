@@ -19,6 +19,8 @@ números do array criado acima. Mostre esse novo array no console.
 console.log( '\nJust Numbers:' );
 // ?
 
+
+
 /*
 Crie um novo array chamado `justMod2Or3`, que receberá do array criado acima
 somente os números que forem divisíveis por 2 ou 3. Mostre esse novo array
